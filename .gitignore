@@ -1,3 +1,5 @@
 .vs
 .git
 *.vcxproj.*
+bin/
+Intermediates/
